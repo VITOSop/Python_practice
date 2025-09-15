@@ -1,0 +1,5 @@
+Hello .......this is file handling
+           This is decomd line.
+           Now im writing 3rd line.Hello .......this is file handling
+           This is decomd line.
+           Now im writing 3rd line.
